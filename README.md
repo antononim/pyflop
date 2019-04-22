@@ -10,6 +10,7 @@ And He's [PyFlooder](https://github.com/D4Vinci/PyFlooder.git)
 
 # Policy
 Original Creator and addition creator don't take care about your activity, and all this is only for educational purposes only.
+Buy you can still give me some money with your [QIWI valet](https://qiwi.me/antgit)
 
 # Usage
 ```
